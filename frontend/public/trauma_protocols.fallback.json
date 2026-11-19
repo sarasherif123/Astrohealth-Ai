@@ -1,0 +1,41 @@
+[
+  {
+    "id": "e55e8400-e29b-41d4-a716-446655440555",
+    "code_name": "ACUTE_HEMORRHAGE_MICROGRAVITY",
+    "title": "Acute External Hemorrhage & Microgravity Restraint Stabilization",
+    "body_region": "CARDIOVASCULAR",
+    "steps": [
+      "STEP 1: Secure patient and responder to the habitat restraint grid before intervention to prevent microgravity recoil.",
+      "STEP 2: Apply direct, continuous manual pressure over the bleeding site using sterile gauze for a minimum of 3 minutes.",
+      "STEP 3: If severe extremity bleeding continues, apply an arterial tourniquet proximal to the wound and record the exact UTC time.",
+      "STEP 4: Continuously monitor heart rate, blood pressure, and SpO2 while alerting the Crew Medical Officer."
+    ],
+    "nasa_reference": "NASA ISS Integrated Medical Group (IMG) First-Aid Stabilization Checklist (Illustrative Prototype Summary)"
+  },
+  {
+    "id": "e55e8400-e29b-41d4-a716-446655440556",
+    "code_name": "ACUTE_HYPOXIA_CABIN_DEPRESSURIZATION",
+    "title": "Acute Cabin Depressurization & Supplemental Oxygen Protocol",
+    "body_region": "BRAIN_NEURO",
+    "steps": [
+      "STEP 1: Don emergency portable 100% oxygen mask immediately and verify facepiece seal.",
+      "STEP 2: Seal affected module hatch and verify cabin total pressure and oxygen partial pressure gauges.",
+      "STEP 3: Exhale normally during any rapid pressure transition; never hold breath during decompression.",
+      "STEP 4: Maintain continuous pulse oximetry (SpO2) monitoring and restrict physical exertion."
+    ],
+    "nasa_reference": "NASA Spaceflight Medical Operations Emergency Depressurization Procedure (Illustrative Prototype Summary)"
+  },
+  {
+    "id": "e55e8400-e29b-41d4-a716-446655440557",
+    "code_name": "OCULAR_CONTAMINANT_IRRIGATION",
+    "title": "Acute Ocular Particulate or Chemical Irritation Washout",
+    "body_region": "OCULAR_EYES",
+    "steps": [
+      "STEP 1: Don protective breathing apparatus if airborne habitat contaminant is suspected.",
+      "STEP 2: Position zero-gravity sealed ocular irrigation eyewear over the affected eye(s).",
+      "STEP 3: Flush continuously with sterile isotonic saline for 15 minutes from nasal to temporal corner.",
+      "STEP 4: Avoid rubbing the eye and perform visual acuity and pH verification with the Crew Medical Officer."
+    ],
+    "nasa_reference": "NASA Crew Health Care System (CHeCS) Ocular Washout Protocol (Illustrative Prototype Summary)"
+  }
+]
